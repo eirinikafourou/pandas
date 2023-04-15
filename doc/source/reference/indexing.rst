@@ -74,6 +74,7 @@ Modifying and computations
    Index.rename
    Index.repeat
    Index.where
+   IndexSlice
    Index.take
    Index.putmask
    Index.unique
@@ -254,7 +255,6 @@ MultiIndex
 .. autosummary::
    :toctree: api/
 
-   IndexSlice
 
 .. autosummary::
    :toctree: api/
